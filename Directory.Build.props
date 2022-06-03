@@ -8,11 +8,11 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<Description>A dotnet client library for uploading and sending documents for citizens via the Logic platform.</Description>
+		<Description>A dotnet client library for uploading and sending documents for citizens and company via the Logic platform.</Description>
 		<Authors>Logic</Authors>
 		<Company>KMD</Company>
 		<Product>Logic</Product>
-		<PackageTags>kmd;logic;documents;service</PackageTags>
+		<PackageTags>kmd;logic;documents;citizen;company;service</PackageTags>
 		<PackageIcon>kmd-logic-icon.png</PackageIcon>
 		<PackageProjectUrl>https://github.com/swapnilBhi/document-service</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
