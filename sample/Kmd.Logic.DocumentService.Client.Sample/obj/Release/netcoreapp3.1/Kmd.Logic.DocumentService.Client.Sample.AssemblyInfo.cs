@@ -14,8 +14,8 @@ using System.Reflection;
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("0dcd1a28-b944-481c-9eee-9147987e48e5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("KMD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("A dotnet client library for uploading and sending documents for citizens via the " +
-    "Logic platform.")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("A dotnet client library for uploading and sending documents for citizens and comp" +
+    "any via the Logic platform.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Logic")]

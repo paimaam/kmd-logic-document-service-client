@@ -13,8 +13,8 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("KMD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("A dotnet client library for uploading and sending documents for citizens via the " +
-    "Logic platform.")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("A dotnet client library for uploading and sending documents for citizens and comp" +
+    "any via the Logic platform.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Logic")]
